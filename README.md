@@ -11,7 +11,7 @@
 # Part 1: Scrape Titles and Preview Text from Mars News
 Open the Jupyter Notebook in the starter code folder named `part_1_mars_news.ipynb`. You will work in this code as you follow the steps below to scrape the Mars News website.
 
-   * Use automated browsing to visit the [Mars news site](https://static.bc-edx.com/data/web/mars_news/index.html){:target="_blank"}. Inspect the page to identify which elements to scrape.
+   * Use automated browsing to visit the [Mars news site](https://static.bc-edx.com/data/web/mars_news/index.html)`{:target="_blank"}`. Inspect the page to identify which elements to scrape.
 
    * Create a Beautiful Soup object and use it to extract text elements from the website.
 
