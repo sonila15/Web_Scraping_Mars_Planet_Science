@@ -53,6 +53,7 @@ terrestrial_date: the date on Earth
           + Find the average minimum daily temperature for all of the months.
           + Plot the results as a bar chart.
 ![This is a plot](https://github.com/sonila15/Web_Scraping_Mars_Planet_Science/blob/main/Images/mars_temp.png)
+
       - Which months have the lowest and the highest atmospheric pressure on Mars? To answer this question:
           + Find the average daily atmospheric pressure of all the months.
           + Plot the results as a bar chart.
