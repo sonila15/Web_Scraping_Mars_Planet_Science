@@ -30,7 +30,7 @@ Open the Jupyter Notebook in the starter code folder named `part_1_mars_news.ipy
 # Part 2: Scrape and Analyze Mars Weather Data
 Open the Jupyter Notebook in the starter code folder named `part_2_mars_weather.ipynb`. You will work in this code as you follow the steps below to scrape and analyze Mars weather data.
 
-   * Use automated browsing to visit the [Mars Temperature Data Site]""(https://static.bc-edx.com/data/web/mars_facts/temperature.html). Inspect the page to identify which elements to scrape. Note that the URL is `https://static.bc-edx.com/data/web/mars_facts/temperature.html`.
+   * Use automated browsing to visit the [Mars Temperature Data Site](https://static.bc-edx.com/data/web/mars_facts/temperature.html). Inspect the page to identify which elements to scrape. Note that the URL is `https://static.bc-edx.com/data/web/mars_facts/temperature.html`.
 
    * Create a Beautiful Soup object and use it to scrape the data in the HTML table. Note that this can also be achieved by using the Pandas `read_html` function. However, use Beautiful Soup here to continue sharpening your web scraping skills.
 
@@ -52,9 +52,11 @@ terrestrial_date: the date on Earth
       - What are the coldest and the warmest months on Mars (at the location of Curiosity)? To answer this question:
           + Find the average minimum daily temperature for all of the months.
           + Plot the results as a bar chart.
+![This is a plot](https://github.com/sonila15/Web_Scraping_Mars_Planet_Science/blob/main/Images/mars_temp.png)
       - Which months have the lowest and the highest atmospheric pressure on Mars? To answer this question:
           + Find the average daily atmospheric pressure of all the months.
           + Plot the results as a bar chart.
+![This is a plot](https://github.com/sonila15/Web_Scraping_Mars_Planet_Science/blob/main/Images/mars_pressure.png)
       - About how many terrestrial (Earth) days exist in a Martian year? To answer this question:
           + Consider how many days elapse on Earth in the time that Mars circles the Sun once.
           + Visually estimate the result by plotting the daily minimum temperature.
